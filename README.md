@@ -12,4 +12,5 @@ Then we can select whichever option we want from the 8 options using the select 
 The last five Operations are part of the ALU (Arthemetic logic unit).
 
 Then the binary Output is converted to BCD using the ADD-3 Method.
+
 after which the display is in 3 7-Segment Displays
